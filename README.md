@@ -4,7 +4,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This is a tool I built to visualize pathfinding algorithims. You can access the tool here: https://joelforr.github.io/pathfinding-visualizer/
 
-### `npm start`
 
 ## Controls
 Left click and drag on the grid to to spawn wall tiles
@@ -13,7 +12,10 @@ Click and drag on start and end positions to reposition them around the grid
 
 ## Algorithims
 **Astar**
+<br>
 **Dijkstras**
+<br>
 **Breadth First Search**
-**(more soon)**
+<br>
+(more soon)
 
