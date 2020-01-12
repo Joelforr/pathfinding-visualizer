@@ -1,0 +1,18 @@
+.sub-title {
+  font-size: 120%;
+  text-align: left;
+}
+
+.options {
+  text-align: left;
+}
+
+.option-title {
+  cursor: pointer;
+  font-size: 110%;
+  font-weight: bold;
+}
+
+.disabled {
+  color: rgb(83, 83, 83);
+}
